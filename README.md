@@ -90,5 +90,3 @@ The project includes several visualizations to aid in understanding the data:
 This project provides a comprehensive analysis of the T20 World Cup 2024 data, offering valuable insights into team and player performances, match outcomes, and scoring patterns. The visualizations and findings can help cricket enthusiasts, analysts, and strategists better understand the dynamics of the tournament.
 
 ---
-
-Feel free to customize this README as per your specific project details and requirements.
